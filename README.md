@@ -23,9 +23,9 @@ create table usuario(
 
 insert into usuario (nome,cpf,sexo,estado,telefone,devedor,divida,email)
         values('Alex','55555555555','masculino','SP','39652148','1',' 150.00','alex@gmail.com'),
-        values('Joao','66666666666','masculino','RJ','39652148','0',' 0','joao@gmail.com'),
-        values('Aline','99999999999','feminino','MT','39652148','1',' 33500.00','aline@gmail.com'),
-        values('Giovana','77777777777','feminino','MG','39652148','0','0','gio@gmail.com'),
-        values('JoJo','11111111111','masculino','SP','39652148','0',' 0','jojo@gmail.com');
+        ('Joao','66666666666','masculino','RJ','39652148','0',' 0','joao@gmail.com'),
+        ('Aline','99999999999','feminino','MT','39652148','1',' 33500.00','aline@gmail.com'),
+        ('Giovana','77777777777','feminino','MG','39652148','0','0','gio@gmail.com'),
+        ('JoJo','11111111111','masculino','SP','39652148','0',' 0','jojo@gmail.com');
         
 
