@@ -6,6 +6,7 @@ Instruçoes: levando em conta que o usuário tenha instalado um servidor web loc
 
 Coloque o arquivo no pasta do servidor.
 
+Altere, de acordo com as necessidades o arquivo classDb.php, pois é onde se encontram as informações da conexão com o banco
 
 Script para a criação do banco.
 
